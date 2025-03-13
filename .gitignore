@@ -1,0 +1,20 @@
+# Generated files
+**/*.rs.bk
+*.pdb
+
+# Build artifacts
+/target/
+**/target/
+
+# IDE specific files
+.idea/
+.vscode/
+**/*.swp
+**/*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Rust
+Cargo.lock
